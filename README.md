@@ -19,6 +19,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 -   [Vector Icons][react-native-vector-icons]
 -   [Lottie][lottie-react-native]
 -   [React Navigation Native][@react-navigation/native]
+-.  [Realm DB ][realm]
 
 ### Pré-requisitos
 
@@ -68,6 +69,7 @@ Este projeto esta sobe a licença MIT.
 [react-native-location]: https://github.com/timfpark/react-native-location
 [react-native-vector-icons]: https://github.com/oblador/react-native-vector-icons
 [lottie-react-native]: https://github.com/lottie-react-native/lottie-react-native
+[realm] : https://docs.mongodb.com/realm/react-native/
 [@react-navigation/native]: https://reactnavigation.org/docs/getting-started
 [license]: https://opensource.org/licenses/MIT
 [vceslint]: https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint
