@@ -19,7 +19,7 @@ As seguintes ferramentas foram utilizadas na construção do projeto:
 -   [Vector Icons][react-native-vector-icons]
 -   [Lottie][lottie-react-native]
 -   [React Navigation Native][@react-navigation/native]
--.  [Realm DB ][realm]
+-   [Realm DB ][realm]
 
 ### Pré-requisitos
 
