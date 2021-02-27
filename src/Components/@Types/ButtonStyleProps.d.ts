@@ -1,0 +1,3 @@
+interface ButtonStyleProps {
+    color?: string;
+}
